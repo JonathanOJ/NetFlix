@@ -7,7 +7,7 @@
 }
 
 body {
-    background: linear-gradient(rgb(0, 0, 0) 60%, rgb(0, 2, 51));
+    background: linear-gradient(rgb(0, 0, 0) 80%, rgb(111, 0, 0));
     color: var(--branco-principal);
     font-family: var(--fonte-principal);
     font-size: 16px;
